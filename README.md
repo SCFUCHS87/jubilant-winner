@@ -1,6 +1,5 @@
 # jubilant-winner
 
-# testing
 # update-proton-ge.sh
 
 A small Bash script that keeps [GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom) up to date in Steam's compatibility tools directory, with version checking, checksum verification, and automatic cleanup of old versions.
