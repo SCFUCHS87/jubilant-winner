@@ -1,0 +1,24 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Backup files from editors (nano, vim, etc.)
+*.bak
+*.orig
+
+# Local script run artifacts (in case anything ever gets dropped here by mistake)
+/tmp/
+*.tar.gz
+*.sha512sum
+filelist.txt
+
+# Logs (e.g. if you wire up the cron/systemd logging from the README)
+*.log
