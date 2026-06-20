@@ -26,7 +26,7 @@ A small Bash script that keeps [GE-Proton](https://github.com/GloriousEggroll/pr
 
 ```bash
 sudo curl -L -o /usr/local/bin/update-proton-ge.sh \
-  https://raw.githubusercontent.com/<your-fork-or-gist-here>/update-proton-ge.sh
+  https://raw.githubusercontent.com/SCFUCHS87/jubilant-winner/main/update-proton-ge.sh
 sudo chmod +x /usr/local/bin/update-proton-ge.sh
 ```
 
